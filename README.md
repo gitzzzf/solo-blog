@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://www.deepsleep.top/hello-solo)
+* [java利用idea在测试环境远程debug二三事](http://www.deepsleep.top/articles/2019/11/15/1573825789298.html)
 
 
 
