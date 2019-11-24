@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.deepsleep.top/my-github-repos)
+* [【java并发系列】ExecutorCompletionService源码分析](http://www.deepsleep.top/articles/2019/11/24/1574537816768.html)
 * [java利用idea在测试环境远程debug二三事](http://www.deepsleep.top/articles/2019/11/15/1573825789298.html)
 
 
